@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecPrimerParcial", "RecPrimerParcial\RecPrimerParcial.csproj", "{45CD0021-CD78-4AEF-A7BB-39951C210FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecPrimerParcial.Tests", "RecPrimerParcial.Tests\RecPrimerParcial.Tests.csproj", "{4B5493B2-3754-45FA-941F-ED7F1251BA2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45CD0021-CD78-4AEF-A7BB-39951C210FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CD0021-CD78-4AEF-A7BB-39951C210FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CD0021-CD78-4AEF-A7BB-39951C210FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CD0021-CD78-4AEF-A7BB-39951C210FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5493B2-3754-45FA-941F-ED7F1251BA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5493B2-3754-45FA-941F-ED7F1251BA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5493B2-3754-45FA-941F-ED7F1251BA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5493B2-3754-45FA-941F-ED7F1251BA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC1ADFD-8CFA-4A36-B868-BB14DB66F7F0}
+	EndGlobalSection
+EndGlobal
